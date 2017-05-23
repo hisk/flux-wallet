@@ -1,0 +1,75 @@
+body {
+    padding-top: 50px;
+}
+
+.container {
+	width: 500px;
+}
+
+.add-item .description {
+	width: 220px;
+}
+
+.add-item .description,
+.add-item .amount {
+	margin-right: 15px;
+}
+
+.add-item .amount {
+	width: 148px;
+}
+
+.app-title {
+    font-weight: 400;
+    font-size: 30px;
+    color: #adadad;
+}
+
+.app-title,
+.total-budget {
+    text-align: center;
+}
+
+.total-budget {
+    border: 1px solid #ddd;
+    border-left: none;
+    border-right: none;
+    padding: 20px 0;
+    font-size: 65px;
+    font-weight: 100;
+    margin-bottom: 15px;
+}
+
+form {
+    padding: 0 10px 15px 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.items-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.items-list li {
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+.items-list li span {
+    float: right;
+    font-weight: bold;
+}
+
+.items-list li .positive {
+    color: #3dab3d;
+}
+
+.items-list li span.negative {
+    color: #e86464;
+}
+
+.items-list .no-items {
+    text-align: center;
+    color: #ddd;
+}

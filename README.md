@@ -1,2 +1,2 @@
-# flux-wallet
-A simple virtual wallet built with React and Flux.
+# Flux Wallet App Boilerplate
+The boilerplate for a simple virtual wallet app built using React and Flux.
