@@ -1,2 +1,4 @@
-# Flux Wallet App Boilerplate
-The boilerplate for a simple virtual wallet app built using React and Flux.
+# Flux Wallet Demo App
+A simple virtual wallet app built using React and Flux.
+
+*How to Run:* Install the required dependencies by running `yarn` then start the dev server using `yarn start`. 
